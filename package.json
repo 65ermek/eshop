@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "homepage": "https://65ermek.github.io/eshop",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "build:watch": "vite build --watch"
+    "build:watch": "vite build --watch",
+    "clean": "rimraf dist",
+    "deploy": "node .gh-pages.cjs"
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
@@ -36,7 +39,9 @@
     "@vue/compiler-sfc": "^3.5.8",
     "babel-loader": "^8.0.0",
     "eslint": "^8.57.0",
-    "eslint-plugin-vue": "^8.7.1"
+    "eslint-plugin-vue": "^8.7.1",
+    "gh-pages": "6.3.0",
+    "rimraf": "^6.0.1"
   },
   "eslintConfig": {
     "root": true,

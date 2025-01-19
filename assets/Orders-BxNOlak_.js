@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as o,o as t}from"./index-CbeIEjsi.js";const r={name:"Orders"},n={class:"container py-4"};function c(d,e,_,p,i,l){return t(),a("div",n,e[0]||(e[0]=[o("h2",null,"Objednávky",-1)]))}const m=s(r,[["render",c],["__scopeId","data-v-4ac9a596"]]);export{m as default};

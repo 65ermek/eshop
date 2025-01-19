@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as s,o as n}from"./index-CbeIEjsi.js";const c={name:"RecommendedProducts"},r={class:"container py-4"};function a(d,e,p,_,m,i){return n(),t("div",r,e[0]||(e[0]=[s("h2",null,"Doporučený sortiment",-1)]))}const l=o(c,[["render",a],["__scopeId","data-v-1572b9ce"]]);export{l as default};
