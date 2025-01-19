@@ -1,1 +1,0 @@
-import{_ as e,c as s,a,o as t}from"./index-CbeIEjsi.js";const c={name:"PurchasedGoods"},n={class:"container py-4"};function r(d,o,p,_,u,i){return t(),s("div",n,o[0]||(o[0]=[a("h2",null,"Zakoupené zboží",-1)]))}const f=e(c,[["render",r],["__scopeId","data-v-64c3b82b"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as o,c as s,a as t,o as a}from"./index-CbeIEjsi.js";const n={name:"Invoices"},c={class:"container py-4"};function r(_,e,p,d,i,f){return a(),s("div",c,e[0]||(e[0]=[t("h2",null,"Faktury",-1)]))}const u=o(n,[["render",r],["__scopeId","data-v-f4ef7856"]]);export{u as default};

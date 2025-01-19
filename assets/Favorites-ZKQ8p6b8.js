@@ -1,1 +1,0 @@
-import{_ as o,c as s,a as t,o as a}from"./index-CbeIEjsi.js";const n={name:"Favorites"},r={class:"container py-4"};function c(d,e,_,p,i,l){return a(),s("div",r,e[0]||(e[0]=[t("h2",null,"Oblíbené",-1)]))}const m=o(n,[["render",c],["__scopeId","data-v-05d7df22"]]);export{m as default};
