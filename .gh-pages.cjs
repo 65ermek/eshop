@@ -5,6 +5,8 @@ ghPages.publish(
     {
         branch: 'gh-pages',
         repo: 'https://github.com/65ermek/eshop.git', // замените на ваш репозиторий
+        add: true, // добавляет файлы
+        force: true, // игнорирует локальные изменения
     },
     (err) => {
         if (err) {
